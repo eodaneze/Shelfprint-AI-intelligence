@@ -1,0 +1,35 @@
+[
+  {
+    "retailer_id": "SHOP-001",
+    "product_id": "SKU-004",
+    "current_stock": 12,
+    "daily_demand": 4,
+    "target_coverage_days": 5,
+    "lead_time_days": 2,
+    "safety_stock": 3,
+    "confirmed_stockout_days": 2,
+    "evidence_confidence": 0.9
+  },
+  {
+    "retailer_id": "SHOP-002",
+    "product_id": "SKU-002",
+    "current_stock": 2,
+    "daily_demand": 3,
+    "target_coverage_days": 4,
+    "lead_time_days": 2,
+    "safety_stock": 2,
+    "confirmed_stockout_days": 1,
+    "evidence_confidence": 0.8
+  },
+  {
+    "retailer_id": "SHOP-003",
+    "product_id": "SKU-001",
+    "current_stock": 15,
+    "daily_demand": null,
+    "target_coverage_days": 5,
+    "lead_time_days": 2,
+    "safety_stock": 2,
+    "confirmed_stockout_days": null,
+    "evidence_confidence": 0.4
+  }
+]
